@@ -1,0 +1,17 @@
+MetricName,Tier
+CpuTime,6
+IoReadBytesPerSecond,2
+IoWriteBytesPerSecond,2
+IoOtherOperationsPerSecond,3
+CurrentAssemblies,3
+TotalAppDomains,4
+Gen0Collections,4
+PrivateBytes,5
+Threads,7
+BytesSent,7
+MemoryWorkingSet,8
+AverageMemoryWorkingSet,3
+Gen1Collections,4
+AverageResponseTime,7
+HttpResponseTime,8
+Handles,3
